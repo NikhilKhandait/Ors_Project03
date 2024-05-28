@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.event.PreLoadEvent"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.ORSView"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.OrderDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BaseCtl"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.UserModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.HibDataSource"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ModelFactory"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Model"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelHibImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BaseDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BankDTO"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+</qualifiedTypeNameHistroy>
